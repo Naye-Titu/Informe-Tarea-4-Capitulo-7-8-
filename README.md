@@ -74,6 +74,8 @@ CAPITULO N°8
 
 ![image](https://user-images.githubusercontent.com/105722861/176611937-3f07dc95-486c-41f5-b2c2-131ff0751b2c.png)
 
+![image](https://user-images.githubusercontent.com/105722861/176724994-a32cbedf-dfab-413b-a434-351ab5c1fc9c.png)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
