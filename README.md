@@ -58,6 +58,9 @@ CAPITULO N°7
 
 CAPITULO N°8
 
+![image](https://user-images.githubusercontent.com/105722861/176585979-bb9365da-7c76-4014-b56c-dc42a73854b5.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
 CAPITULO N°7
