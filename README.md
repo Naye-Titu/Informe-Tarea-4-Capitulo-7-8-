@@ -44,6 +44,18 @@ INFORME DE TAREA
 
 CAPITULO N°7
 
+![image](https://user-images.githubusercontent.com/105722861/176578594-127aa469-33f0-4607-b4d8-b5b7c57d2c65.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176578659-358e3868-3877-4542-87c5-35de3f442ae1.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176578732-1a6d2ce6-74ea-42b5-a90b-0383786b816d.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176578809-61632df6-fb0f-4301-a8da-fe70830ae3e0.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176578906-11a68894-baff-423f-803e-65312242309e.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176578993-efc35572-a692-4512-8e2a-33d1e7e16037.png)
+
 CAPITULO N°8
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
