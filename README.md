@@ -168,7 +168,21 @@ CAPITULO N°8
 
 ![image](https://user-images.githubusercontent.com/105722861/176857814-d4a3d5f7-18da-47be-9872-8cd55488a450.png)
 
+![image](https://user-images.githubusercontent.com/105722861/176858582-ea3375f9-4e09-48d0-a427-1597d6246031.png)
 
+![image](https://user-images.githubusercontent.com/105722861/176858695-ec3ebb0e-b551-433e-8209-4c0751bc5d91.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176858800-8267d69b-62be-4e3e-b7e1-6084739929fe.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176858893-cbc2c190-7c73-4d85-931f-e39655b459f3.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176859118-d121094d-f65c-4114-8f0c-35db8ddf7b94.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176859241-673cf08b-a01b-4688-b79b-2a97bd630773.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176859383-b5cbb74b-8c06-41dd-a29a-5038fa698596.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176859502-c231bf2f-242f-492c-a9d6-7ea811c53bcb.png)
 
 4. VIDEO
 
