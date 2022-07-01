@@ -18,8 +18,6 @@ INFORME DE TAREA
 
 * Determinar la diferencia de potencial entre dos puntos cualesquiera en un circuito serie-paralelo.
 
-* Analizar de qué manera el valor de un resistor de carga conectado a un potenciómetro afecta el voltaje de salida.
-
 * Convertir una fuente de corriente en una fuente de voltaje equivalente.
 
 * Analizar los circuitos que tienen dos a más fuentes de corriente en paralelo.
