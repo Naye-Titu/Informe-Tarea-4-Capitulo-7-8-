@@ -18,11 +18,7 @@ INFORME DE TAREA
 
 * Determinar la diferencia de potencial entre dos puntos cualesquiera en un circuito serie-paralelo.
 
-* Calcular la caída de voltaje en un resistor conectado a un potenciómetro.
-
 * Analizar de qué manera el valor de un resistor de carga conectado a un potenciómetro afecta el voltaje de salida.
-
-* Calcular los efectos de carga de un voltímetro o un amperímetro cuando se usan para medir el voltaje o la corriente en algún circuito.
 
 * Convertir una fuente de corriente en una fuente de voltaje equivalente.
 
@@ -37,8 +33,6 @@ INFORME DE TAREA
 * Convertir un delta resistivo en un circuito Y equivalente o un Y en su circuito delta equivalente y resolver el circuito simplificado resultante.
 
 * Determinar el voltaje o la corriente en cualquier elemento de una red de puente.
-
-* Usar PSpice y Multisim para analizar circuitos de múltiples lazos.
 
 2. MARCO TEÓRICO
 
@@ -187,6 +181,10 @@ CAPITULO N°8
 4. VIDEO
 
 5. CONCLUSIONES
+
+* Con referencia a los circuitos serie - paralelo se tiene que para realizar un análisis correcto se debe primero identificar y diferenciar las partes del circuito que se encuentran en paralelo y las que se encuentran en serie, posterior a esto se puede aplicar los conocimientos antes adquiridos para calcule la resistencia, corriente y voltaje totales. 
+* Las conversiones de fuente dentro de los circuitos son de dos tipos, el primero la conversión de una fuente de voltaje en una fuente de corriente, en este caso se deberá dividir el voltaje de la fuente entre la resistencia interna de la fuente que por lo general es igual a cero. El segundo tipo es la conversión de una fuente de corriente en una fuente de voltaje, en este caso la corriente de la fuente se debe multiplicar por la resistencia interna de la fuente, que es la mayoría de los casos se le considera infinita.
+* El teorema de superposición para el análisis de circuitos serie - paralelo es efectivo porque permite reducir un circuito grande en una más simple, con esto se facilita el análisis del circuito y se puede implementar cualquier método conocido anteriormente para poder calcular la intensidad de corriente, el voltaje total del circuito y la resistencia total. 
 
 6. BIBLIOGRAFÍA
 
